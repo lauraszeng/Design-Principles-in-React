@@ -1,0 +1,6 @@
+[submodule "lecture-1-es6-primer"]
+	path = lecture-1-es6-primer
+	url = https://github.com/hes-e39/lecture-1-es6-primer.git
+[submodule "homework-1-lauraszeng"]
+	path = homework-1-lauraszeng
+	url = https://github.com/hes-e39/homework-1-lauraszeng.git
